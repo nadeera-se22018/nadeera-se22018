@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://github.com/nadeera-se22018">
-    <img src="https://github-readme-stats.vercel.app/api?username=nadeera-se22018&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nadeera-se22018&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/nadeera-se22018">
