@@ -39,9 +39,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeera-se22018&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/nadeera-se22018">
+    <img src="https://github-readme-stats.vercel.app/api?username=nadeera-se22018&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  </a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeera-se22018&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/nadeera-se22018">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeera-se22018&theme=radium&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
