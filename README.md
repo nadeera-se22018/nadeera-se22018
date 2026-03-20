@@ -13,7 +13,6 @@
 - 💻 Specializing in **MERN Stack** (MongoDB, Express.js, React, Node.js) and **Spring Boot**.
 - 🚀 Enthusiastic about **DevOps** methodologies, including Docker, Kubernetes, and CI/CD pipelines.
 - 🌱 Currently building a scalable full-stack **MERN E-commerce platform**.
-- 🏆 Developed the **"Nutrition Advisor for Sri Lankan Diets"** for Junior Hack 7.0.
 - 💼 Open for **Freelance** web development opportunities! Let's build something great together.
 
 ---
