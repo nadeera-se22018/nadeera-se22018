@@ -53,7 +53,7 @@
 ### 📊 GitHub 3D Stats
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/nadeera-se22018/nadeera-se22018/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Stats" />
 </div>
 
 ---
