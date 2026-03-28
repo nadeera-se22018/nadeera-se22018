@@ -43,11 +43,6 @@
 ### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadeera-se22018&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-<br/>
-
-<div align="center">
   <a href="https://github.com/nadeera-se22018">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeera-se22018&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
