@@ -50,6 +50,14 @@
 
 ---
 
+### 📊 GitHub 3D Stats
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Stats" />
+</div>
+
+---
+
 ### 🐍 My Contributions
 
 <div align="center">
