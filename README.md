@@ -35,13 +35,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadeera-se22018&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeera-se22018&layout=compact&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=nadeera-se22018&theme=radical&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=nadeera-se22018&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/nadeera-se22018">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeera-se22018&theme=radium&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
