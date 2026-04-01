@@ -79,5 +79,5 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://medium.com/@kasunnadeera100" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
