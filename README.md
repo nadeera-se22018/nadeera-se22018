@@ -1,14 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kasun Nadeera</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/nadeera-se22018">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergrad;Full-Stack+MERN+Developer;DevOps+%26+Spring+Boot+Enthusiast;Available+for+Freelancing" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kasun%20Nadeera&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20DevOps%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Full-Stack+MERN+%26+Spring+Boot+Developer+%F0%9F%9A%80;University+of+Kelaniya+%E2%80%A2+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nadeera-se22018&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kasun-nadeera-6bb48530a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kasunnadeera100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@kasunnadeera100" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadeera-se22018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
