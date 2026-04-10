@@ -4,20 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Full-Stack+MERN+%26+Spring+Boot+Developer+%F0%9F%9A%80;University+of+Kelaniya+%E2%80%A2+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nadeera-se22018&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kasun-nadeera-6bb48530a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kasunnadeera100@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@kasunnadeera100" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadeera-se22018&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/kasun-nadeera-6bb48530a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kasunnadeera100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@kasunnadeera100" target="_blank"><img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 </div>
