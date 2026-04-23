@@ -1,4 +1,4 @@
-<div align="center">
+q<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kasun%20Nadeera&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20DevOps%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
@@ -19,7 +19,7 @@
 
 - 🎓 Software Engineering Undergraduate at the **University of Kelaniya**.
 - 💻 Specializing in **MERN Stack** (MongoDB, Express.js, React, Node.js) and **Spring Boot**.
-- 🚀 Enthusiastic about **DevOps** methodologies, including Docker, Kubernetes, and CI/CD pipelines.
+- 🚀 Enthusiastic about **DevOps** methodologies, including AWS, Production Infra, Docker, Kubernetes, and CI/CD pipelines through Actions/Jenkins.
 - 🌱 Currently building a scalable full-stack **MERN E-commerce platform**.
 - 💼 Open for **Freelance** web development opportunities! Let's build something great together.
 
@@ -40,6 +40,7 @@
 **DevOps & Tools:** <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
 
 ---
 
